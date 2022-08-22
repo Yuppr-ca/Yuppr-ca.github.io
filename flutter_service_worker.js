@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "f6b78add5bf06d5151b0adbe6b758b80",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "23492565712318b1a6da700694d8536b",
+"assets/NOTICES": "1cfe586e4a9375683d10f0aa9ac20275",
 "assets/packages/yuppr_ui/assets/png/profiles/person.png": "bc44090c5caaef294097f9b35deaa3bf",
 "assets/packages/yuppr_ui/assets/png/profiles/restaurant.png": "e7f530c4e0bf39b9ddb8316a727efc51",
 "assets/packages/yuppr_ui/assets/svg/checkbox/checked.svg": "7af02d86de01e469ae530b578884e000",
@@ -1448,9 +1448,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0ec1ba78c2346bbeedfa0b06774d8b2e",
-"/": "0ec1ba78c2346bbeedfa0b06774d8b2e",
-"main.dart.js": "a32e69e6210e06b93286522a8ee0802b",
+"index.html": "f811d516acd1df6de95fc58f76688908",
+"/": "f811d516acd1df6de95fc58f76688908",
+"main.dart.js": "54dd47d1fa10b8a4ddeb611163908072",
 "manifest.json": "c344be8be5d703e5a5453a4d8854a96c",
 "version.json": "2b44c7e7f292ae3bf02038f6f01d1ef4"
 };
